@@ -1,6 +1,6 @@
 # getx_and_provider
 
-A new Flutter project.
+A new Flutter project. for lerning
 
 ## Getting Started
 
